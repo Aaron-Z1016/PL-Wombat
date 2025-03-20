@@ -120,3 +120,7 @@ Comprehensive documentation, including architectural overviews, guides on creati
 ### Acknowledgments
 Heartfelt thanks to the University of Melbourne and the initial group of students who developed Planimation.
 Gratitude is extended to the students from COMP90082 for their dedication to advancing the capabilities of Planimation.
+
+## About this Project
+This project was originally developed as part of a COMP90082 group assignment at the University of Melbourne.
+
