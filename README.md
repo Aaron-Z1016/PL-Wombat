@@ -32,9 +32,7 @@ Here is a video demonstrating these animated planning problems
 
 ## Demo Video
 
-[![Demo Video Thumbnail](https://via.placeholder.com/600x300?text=Click+to+Watch+Demo)](https://drive.google.com/uc?export=download&id=10a4b2NTcuXStewBd-uSbcy8jyb_PKU5U)
-
-
+👉 [Click here to watch the Demo Video](https://drive.google.com/uc?export=download&id=10a4b2NTcuXStewBd-uSbcy8jyb_PKU5U) 👈
 
 
 ## Getting Started
