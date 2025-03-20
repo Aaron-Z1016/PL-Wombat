@@ -30,7 +30,10 @@ We haven't deployed the feautres since we have merge them with team Koala.
 
 Here is a video demonstrating these animated planning problems
 
-[Download Demo Video](https://github.com/COMP90082-2024-SM1/PL-Wombat/assets/110153064/4c1571da-a562-4ee4-a568-70d9956e3bdc)
+## Demo Video
+
+[Watch Demo Video](https://drive.google.com/uc?export=download&id=10a4b2NTcuXStewBd-uSbcy8jyb_PKU5U)
+
 
 ## Getting Started
 
