@@ -32,7 +32,8 @@ Here is a video demonstrating these animated planning problems
 
 ## Demo Video
 
-![Demo Video](https://drive.google.com/uc?export=download&id=10a4b2NTcuXStewBd-uSbcy8jyb_PKU5U)
+[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-Click%20Here-brightgreen)](https://drive.google.com/uc?export=download&id=10a4b2NTcuXStewBd-uSbcy8jyb_PKU5U)
+
 
 
 ## Getting Started
